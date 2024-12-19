@@ -1905,12 +1905,46 @@ ul.roundedbox.flex-height li {
 .section-our-clients{
 	width: 100%;
 }
-
-
+.section-our-clients{
+	padding-top: 24px;
+	padding-bottom: 32px;
+}
 .slick.marquee .slick-slide{
+	width: 124px;
+	height: auto;
+}
+.slick.marquee .slick-track{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	-ms-align-items: center;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+	justify-content: center;
+	-ms-justify-content: center;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+}
+.slick.marquee .slick-slide .inner{
 	padding-left: 14px;
 	padding-right: 14px;
+	margin-left: 5px;
+	margin-right: 5px;
+	width: 124px;
+	height: auto;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	-ms-align-items: center;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+	justify-content: center;
+	-ms-justify-content: center;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
 }
+
+
 
 .slick.marquee .slick-slide .inner img{
 	max-width: 100%;

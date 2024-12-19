@@ -455,47 +455,47 @@
 					<div class="slick marquee">
 						<div class="slick-slide">
 							<div class="inner">
-								<img src="assets/images/logodwdc.png"  height="40" alt=""/>
+								<img src="assets/images/logodwdc.png" alt=""/>
 							</div>
 						</div>
 						<div class="slick-slide">
 							<div class="inner">
-								<img src="assets/images/logo-pertamina.png"  height="40" alt=""/>
+								<img src="assets/images/logo-pertamina.png"  alt=""/>
 							</div>
 						</div>
 						<div class="slick-slide">
 							<div class="inner">
-								<img src="assets/images/f5c8050a0f7285cc0ac0bd7f8463c771.webp" height="40" alt=""/>
+								<img src="assets/images/f5c8050a0f7285cc0ac0bd7f8463c771.webp" alt=""/>
 							</div>
 						</div>
 						<div class="slick-slide">
 							<div class="inner">
-								<img src="assets/images/SLB_Logo_2022.svg" height="47" alt=""/>
+								<img src="assets/images/SLB_Logo_2022.svg" alt=""/>
 							</div>
 						</div>
 						<div class="slick-slide">
 							<div class="inner">
-								<img src="assets/images/haliburton-images.png"  height="32" alt/>
+								<img src="assets/images/haliburton-images.png" alt/>
 							</div>
 						</div>
 						<div class="slick-slide">
 							<div class="inner">
-								<img src="assets/images/China_Oilfield_Services_logo_2.svg" height="30" alt=""/>
+								<img src="assets/images/China_Oilfield_Services_logo_2.svg" alt=""/>
 							</div>
 						</div>
 						<div class="slick-slide">
 							<div class="inner">
-								<img src="assets/images/Chevron Logo.svg" height="50" alt=""/>
+								<img src="assets/images/Chevron Logo.svg" alt=""/>
 							</div>
 						</div>
 						<div class="slick-slide">
 							<div class="inner">
-								<img src="assets/images/seleraya.png" height="60" alt=""/>
+								<img src="assets/images/seleraya.png" alt=""/>
 							</div>
 						</div>
 						<div class="slick-slide">
 							<div class="inner">
-								<img src="assets/images/mayora.png" height="60" alt=""/>
+								<img src="assets/images/mayora.png" alt=""/>
 							</div>
 						</div>
 					</div>
