@@ -1,0 +1,14 @@
+/* MFI PRODUCT START */
+div.row div.img-mfi-product img{
+	height: auto;
+	width: auto;
+	border-radius: 50%;
+}
+
+div.content-company-slogan div.col-8 h3.mfi-product-title{
+	color: #009130;
+	font-weight: bold;
+}
+/* MFI PRODUCT END*/
+
+
