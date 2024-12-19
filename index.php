@@ -11,6 +11,7 @@
 	<link rel="stylesheet" href="assets/css/mobile-style.css">
 	<link rel="stylesheet" href="assets/css/hamburgers.min.css">
 	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css">
 </head>
 
 <body>
@@ -445,6 +446,64 @@
 		</div>
 	</section>
 	<!-- section home products end-->
+
+	<!-- OUR CLIENTS START -->
+	<section class="section-our-clients">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="slick marquee">
+						<div class="slick-slide">
+							<div class="inner">
+								<img src="assets/images/logodwdc.png"  height="40" alt=""/>
+							</div>
+						</div>
+						<div class="slick-slide">
+							<div class="inner">
+								<img src="assets/images/logo-pertamina.png"  height="40" alt=""/>
+							</div>
+						</div>
+						<div class="slick-slide">
+							<div class="inner">
+								<img src="assets/images/f5c8050a0f7285cc0ac0bd7f8463c771.webp" height="40" alt=""/>
+							</div>
+						</div>
+						<div class="slick-slide">
+							<div class="inner">
+								<img src="assets/images/SLB_Logo_2022.svg" height="47" alt=""/>
+							</div>
+						</div>
+						<div class="slick-slide">
+							<div class="inner">
+								<img src="assets/images/haliburton-images.png"  height="32" alt/>
+							</div>
+						</div>
+						<div class="slick-slide">
+							<div class="inner">
+								<img src="assets/images/China_Oilfield_Services_logo_2.svg" height="30" alt=""/>
+							</div>
+						</div>
+						<div class="slick-slide">
+							<div class="inner">
+								<img src="assets/images/Chevron Logo.svg" height="50" alt=""/>
+							</div>
+						</div>
+						<div class="slick-slide">
+							<div class="inner">
+								<img src="assets/images/seleraya.png" height="60" alt=""/>
+							</div>
+						</div>
+						<div class="slick-slide">
+							<div class="inner">
+								<img src="assets/images/mayora.png" height="60" alt=""/>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</section>
+	<!-- OUR CLIENTS END -->
 	<!-- Footer Start -->
 	<section class="footer">
 		<div class="wrp-footer-page">
@@ -545,6 +604,7 @@
 	<script src="assets/js/jquery.menu-aim.js"></script>
 	<script src="assets/js/main.js"></script>	
 	<script src="assets/js/custom.js"></script>		
+	<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script>
         $('#homeCarousel').carousel({
             interval: 3900,
@@ -552,6 +612,24 @@
         });
 		$('.carousel-control-next').find('span').html('<img src="assets/images/arrow-right.svg">');
 		$('.carousel-control-prev').find('span').html('<img src="assets/images/arrow-left.svg">');
-    </script>
+		$('.slick.marquee').slick({
+			speed: 7000,
+			autoplay: true,
+			autoplaySpeed: 0,
+			centerMode: false,
+			cssEase: 'linear',
+			slidesToShow: 1,
+			draggable:false,
+			focusOnSelect:false,
+			pauseOnFocus:false,
+			pauseOnHover:false,
+			slidesToScroll: 1,
+			variableWidth: true,
+			infinite: true,
+			initialSlide: 1,
+			arrows: false,
+			buttons: false
+		});
+	</script>
 </body>
 </html>

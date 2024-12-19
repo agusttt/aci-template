@@ -1901,6 +1901,22 @@ ul.roundedbox.flex-height li {
 
 /* NEW TYPOGRAPH YG BENTROK */
 
+/* SECTION OUR CLIENT START */
+.section-our-clients{
+	width: 100%;
+}
+
+
+.slick.marquee .slick-slide{
+	padding-left: 14px;
+	padding-right: 14px;
+}
+
+.slick.marquee .slick-slide .inner img{
+	max-width: 100%;
+}
+
+/* SECTION OUR CLIENTS END */
 
 /* SECTION HERO IMAGE AT HOME START */
 
