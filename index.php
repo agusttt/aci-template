@@ -28,7 +28,7 @@
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-						<div class="right-logo-language">
+						<!-- <div class="right-logo-language">
 							<div class="row align-items-center justify-content-end">
 								<div class="col-md-9 col-sm-12 col-12">
 									<form action="" class="search-ev">
@@ -41,7 +41,7 @@
 									</form>
 								</div>						
 							</div>
-						</div>					
+						</div>-->
 					</div>
 				</div>
 			</div>
@@ -74,43 +74,9 @@
 										<li class="nav-item">
 											<a class="nav-link menu-item" href="#">Vision & Mission</a>
 										</li>
-										<li class="nav-item dropdown">
-											<a class="nav-link menu-item" data-id="before-sekolah-aman" role="button">
-												<!-- Products -->
-												Produk
-												<i class="caret-down"></i>
-											</a>
-											<ul class="dropdown-menu dropdown-wide animate slideIn first-level">
-												<div class="dropworn-product">
-													<div class="row">
-														<div class="col-md-6 col-sm-12 col-12">
-															<ul>
-																<li><a class="dropdown-item" href="#">Fluid loss controller</a></li>
-																<li><a class="dropdown-item" href="#">Retarder</a></li>
-																<li><a class="dropdown-item" href="#">Anti gas migration</a></li>
-																<li><a class="dropdown-item" href="#">Dispersant</a></li>
-																<li><a class="dropdown-item" href="#">Filtrol</a></li>
-																<li><a class="dropdown-item" href="#">Starch</a></li>
-																<li><a class="dropdown-item" href="#">Polyamine</a></li>
-																<li><a class="dropdown-item" href="#">Ezflo</a></li>
-															</ul>
-														</div>
-														<div class="col-md-6">
-															<ul>
-																<li><a class="dropdown-item" href="#">CMS</a></li>
-																<li><a class="dropdown-item" href="#">Barrite</a></li>
-																<li><a class="dropdown-item" href="#">Xanthan Gum</a></li>
-																<li><a class="dropdown-item" href="#">GGBFS</a></li>
-																<li><a class="dropdown-item" href="#">Antifoam</a></li>
-																<li><a class="dropdown-item" href="#">Foamer</a></li>
-																<li><a class="dropdown-item" href="#">Caustic soda</a></li>
-																<li><a class="dropdown-item" href="#">Oil well cement</a></li>																
-															</ul>
-														</div>
-													</div>
-												</div>
-											</ul>
-										</li>
+										<li class="nav-item">
+											<a class="nav-link menu-item" href="#">Products</a>
+										</li>										
 										<li class="nav-item">
 											<a class="nav-link menu-item" href="#">Clients</a>
 										</li>
@@ -168,17 +134,6 @@
 					<img class="img-fluid" src="assets/images/logo-aci.png" alt="ACI">
 				</a>
 			</div>
-			<div class="right-setting-mobile">
-				<div class="dropdown d-lang">
-					<a class="btn btn-lang-mobile dropdown-toggle" href="#" role="button" id="dropdownMenuLang"
-						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						IDN
-					</a>
-					<div class="dropdown-menu dropdown-menu-mm" aria-labelledby="dropdownMenuLang">
-						<a class="dropdown-item" href="#">ENG</a>
-					</div>
-				</div>
-			</div>
 		</div>
 		<header>
 			<a id="icon-search-mobile" class="icon-search-mobile"><img src="assets/images/search-icon.svg" alt=""
@@ -207,47 +162,11 @@
 				<nav class="cd-dropdown">
 					<ul class="cd-dropdown-content">
 						<li><a href="index.php">Home</a></li>
-						<li class="has-children">
-							<a href="#">About Us</a>
-							<ul class="cd-secondary-dropdown is-hidden">
-								<li class="go-back"><a href="#0">Back to first menu</a></li>
-								<li><a href="#">History</a></li>
-								<li><a href="#">Message from the Presiden</a></li>						
-							</ul>
-						</li>
-						<li class="has-children">
-							<a href="#">Products</a>
-							<ul class="cd-secondary-dropdown is-hidden">
-								<li class="go-back"><a href="#0">Back to first menu</a></li>
-								<li><a href="#">Product One</a></li>
-								<li><a href="#">Product Two</a></li>							
-							</ul>
-						</li>
-						<li class="has-children">
-							<a href="#">People</a>
-							<ul class="cd-secondary-dropdown is-hidden">
-								<li class="go-back"><a href="#0">Back to first menu</a></li>
-								<li><a href="#">KAITEKI Health and Productivity Management</a></li>
-								<li><a href="#">Talent Management</a></li>
-								<li><a href="#">CSR</a></li>
-								<li><a href="#">Industrial Relations</a></li>							
-							</ul>
-						</li>
-						<li class="has-children">
-							<a href="#">Repsonsible Company</a>
-							<ul class="cd-secondary-dropdown is-hidden">
-								<li class="go-back"><a href="#0">Back to first menu</a></li>
-								<li><a href="#">SHE System</a></li>
-								<li><a href="#">Compliance</a></li>
-								<li><a href="#">Maintenance System</a></li>
-								<li><a href="#">ISO (Quality and Environtment)</a></li>							
-							</ul>
-						</li>						
-						<li><a href="#">Career</a></li>
+						<li><a href="#">About Us</a></li>
+						<li><a href="#">Vission & Mission</a></li>
+						<li><a href="#">Products</a></li>
+						<li><a href="#">Clients</a></li>
 						<li><a href="#">Contact Us</a></li>
-						<li><a href="#">Privacy Statement</a></li>
-						<li><a href="#">Terms of Use</a></li>
-						<li><a href="#">Sitemap</a></li>
 						<div class="space-navbar-mobile"></div>
 					</ul>
 				</nav>
@@ -337,19 +256,19 @@
 		<div class="wrp-section-welcome-home">
 			<div class="container">
 				<div class="row align-items-center">
-					<div class="col-lg-5 col-md-5 col-sm-12 col-12">
+					<div class="col-lg-5 col-md-12 col-sm-12 col-12">
 						<div class="left-welcome-home">
 							<h3>Welcome to<br><span>ACI Indonesia</span></h3>
 						</div>
 					</div>
-					<div class="col-lg-7 col-md-7 col-sm-12 col-12">
+					<div class="col-lg-7 col-md-12 col-sm-12 col-12">
 						<div class="w-100 right-welcome-home">
 							<p>ACI was founded in 2008 to cater to the extensive chemical necessities in oil & gas services. As one of the fastest growing companies in its field, throughout the years the company has offered chemical solutions to other industries such as cosmetics, paper and food.</p>
 						</div>
 						<div class="w-100 right-welcome-home">
 							<div class="row">
-								<div class="col-md-6 col-sm-12 col-2">
-									<div class="w-100 d-flex">
+								<div class="col-md-6 col-sm-12 col-12">
+									<div class="w-100 d-flex justify-content-start align-items-center">
 										<div class="iconization">
 											<img src="assets/images/icon-drilling.svg" alt="Icon Drill projects">
 										</div>
@@ -359,8 +278,8 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-6 col-sm-12 col-2">
-									<div class="w-100 d-flex align-items-center">
+								<div class="col-md-6 col-sm-12 col-12">
+									<div class="w-100 d-flex align-items-center justify-content-start align-items-center">
 										<div class="iconization">
 											<img src="assets/images/icon-chemical.svg" alt="Icon Drill projects">
 										</div>
@@ -370,8 +289,8 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-md-6 col-sm-12 col-2">
-									<div class="w-100 d-flex align-items-center">
+								<div class="col-md-6 col-sm-12 col-12">
+									<div class="w-100 d-flex align-items-center justify-content-start align-items-center">
 											<div class="iconization">
 												<img src="assets/images/icon-containers.svg" alt="Icon Drill projects">
 											</div>
@@ -381,8 +300,8 @@
 											</div>
 										</div>
 									</div>
-								<div class="col-md-6 col-sm-12 col-2">
-									<div class="w-100 d-flex align-items-center">
+								<div class="col-md-6 col-sm-12 col-12">
+									<div class="w-100 d-flex align-items-center justify-content-start align-items-center">
 											<div class="iconization">
 												<img src="assets/images/icon-scale.svg" alt="Icon Drill projects">
 											</div>
@@ -485,7 +404,7 @@
 						</div>
 						<div class="slick-slide">
 							<div class="inner">
-								<img src="assets/images/Chevron Logo.svg" alt=""/>
+								<img width="64" src="assets/images/Chevron Logo.svg" alt=""/>
 							</div>
 						</div>
 						<div class="slick-slide">

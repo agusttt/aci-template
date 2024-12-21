@@ -272,7 +272,7 @@ header::after{
   -webkit-transition: -webkit-transform 0.5s 0s, visibility 0s 0s;
   -moz-transition: -moz-transform 0.5s 0s, visibility 0s 0s;
   transition: transform 0.5s 0s, visibility 0s 0s;
-  top: 114px;
+  top: 107px;
   border-top:1px solid #efefef;
   overflow-y: scroll;
 }
