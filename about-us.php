@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
-	<title>Contact Us</title>
+	<title>About Us</title>
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/reset.css">
 	<link rel="stylesheet" href="assets/css/mobile-style.css">
@@ -178,132 +178,65 @@
 	<div class="parallax-window" data-parallax="scroll"
 		data-image-src="assets/images/bg-cover-presiden-message.jpg">
 	</div>
-	<!-- section contact us -->
-	<section class="section-contact-us">
-		<div class="container">
-			<form class="form-contact-us needs-validation" action="" novalidate="">
-				<div class="row">
-					<div class="col-lg-12 col-md-12 col-sm-12 col-12">
-						<nav aria-label="breadcrumb">
-							<ol class="breadcrumb breadcrumb-white">
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<li class="breadcrumb-item active" aria-current="page">Contact Us</li>
-							</ol>
-						</nav>
-					</div>
-				</div>		
-				<div class="row">
-					<div class="col"></div>
-					<div class="col-lg-10 col-md-10 col-sm-12 col-12 column-form-contact">
-						<div class="wrp-form-contact">
-							<div class="row">
-								<div class="col-12">
-									<div class="wrp-title-form-contact">
-										<h1>Write <span>Your Message</span></h1>
-									</div>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-									<div class="form-group form-label-group form-group-line">
-										<input type="email" id="inputEmail" class="form-control reset-box-shadow" placeholder="" autofocus="" required="">
-										<div class="invalid-feedback">Email adress is required</div>  
-										<label for="inputEmail">Email Adress</label>
-									</div>								
-								</div>
-								<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-									<div class="form-group form-label-group form-group-line">
-										<input type="text" id="inputName" class="form-control reset-box-shadow" placeholder="" required="">
-										<div class="invalid-feedback">Name label is required</div>  
-										<label for="inputName">Full Name</label>
-									</div>								
-								</div>
-								<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-									<div class="form-group form-label-group form-group-line">
-										<input type="text" id="inputPhone" class="form-control reset-box-shadow" placeholder="" required="">
-										<div class="invalid-feedback">Phone number is required</div>  
-										<label for="inputPhone">Phone Number</label>
-									</div>								
-								</div>
-								<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-									<div class="form-group form-label-group form-group-line">
-										<input type="text" id="inputName" class="form-control reset-box-shadow" placeholder="" required="">
-										<div class="invalid-feedback">Company / Organization is required</div>  
-										<label for="inputName">Company / Organization</label>
-									</div>								
-								</div>
-								<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-									<div class="form-group form-group-line form-group-text">
-										<textarea rows="4" class="form-control textarea-contact form-label-static reset-box-shadow" id="validationTextarea" placeholder="Your message" required=""></textarea>
-										<div class="invalid-feedback">
-										Please enter a message in the textarea.
-										</div>             
-									</div>								
-								</div>
-								<div class="col-lg-6 col-md-6 col-sm-12 col-12">
+	<!-- section message presiden -->
+	
+	<!-- section message presiden -->
 
-								</div>
-								<div class="col-lg-12 col-md-12 col-sm-12 col-12">
-									<button type="submit" class="btn d-block btn-contact-us">Send Message</button>
-								</div>
-							</div>
+	<!-- section company slogan start -->
+	<section class="section-company-slogan">
+		<div class="wrp-section-company-slogan">
+			<div class="container">
+			<div class="row">
+				<div class="col"></div>
+				<div class="col-lg-8 col-md-8 col-sm-12 col-12">
+					<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-12">
+							<nav aria-label="breadcrumb">
+								<ol class="breadcrumb breadcrumb-article">
+									<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+									<li class="breadcrumb-item active" aria-current="page">About Us</li>
+								</ol>
+							</nav>
 						</div>
-					</div>
+					</div>		
+				</div>
+				<div class="col"></div>
+			</div>				
+			<div class="row">
 					<div class="col"></div>
-				</div>	
-			</form>
-		</div>
-	</section>
-
-	<section class="section-maps-head-office">
-		<div class="row align-items-center custom-align-maps">
-			<div class="col-lg-6 col-md-6 col-sm-12 col-12 col-maps-head-office">
-				<div class="wrp-maps-head-office">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.7701412490787!2d106.7831886153412!3d-6.293910295444733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f1da4ab3bd11%3A0xd048f304a53e2661!2sCitibank%20Tower%20B%20-%20South%20Quarter!5e0!3m2!1sen!2sid!4v1622713257258!5m2!1sen!2sid" width="100%" height="362" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+					<div class="col-md-8 col-sm-12 col-12">
+						<div class="company-vision-desc">
+							<p>ACI was founded in 2008 to cater to the extensive chemical necessities in oil & gas services. As one of the fastest growing companies in its field, throughout the years the company has offered chemical solutions to other industries such as cosmetics, paper and food.</p>
+						</div>
+					</div>				
+					<div class="col"></div>							
 				</div>
 			</div>
-			<div class="col-lg-6 col-md-6 col-sm-12 col-12 col-address-head-office">
-				<div class="wrp-address-head-office">
-					<div class="text-address-head-office">
-						<h2>Head Office</h2>
-						<p>Jl. R.A.Kartini No.Kav. 8, RT.10/RW.4, Cilandak Bar., Jakarta, Kota Jakarta Selatan, Jakarta 12430, Indonesia</p>
-						<p>Phone: +62 21 227-22172, 222-22173</p>
-						<div class="img-icon">
-							<img width="56" src="assets/images/icon-helm-contruction.png" alt="helm">
-						</div>						
-					</div>
-				</div>				
-			</div>			
-		</div>
+		</div>	
 	</section>
-	<section class="section-maps-fam">
-		<div class="row align-items-center custom-align-maps">
-			<div class="col-lg-6 col-md-6 col-sm-12 col-12 col-address-head-office">
-				<div class="col-address-head-office-flexy  justify-content-end">
-					<div class="wrp-address-head-office">
-						<div class="text-address-head-fam">
-							<h2>Head Office</h2>
-							<p>Jl. R.A.Kartini No.Kav. 8, RT.10/RW.4, Cilandak Bar., Jakarta, Kota Jakarta Selatan, Jakarta 12430, Indonesia</p>
-							<p>Phone: +62 21 227-22172, 222-22173</p>
-							<div class="img-icon-right">
-								<img width="56" src="assets/images/icon-helm-contruction.png" alt="helm">
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-6 col-md-6 col-sm-12 col-12 col-address-head-office">
-				<div class="wrp-maps-head-office">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.7701412490787!2d106.7831886153412!3d-6.293910295444733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f1da4ab3bd11%3A0xd048f304a53e2661!2sCitibank%20Tower%20B%20-%20South%20Quarter!5e0!3m2!1sen!2sid!4v1622713257258!5m2!1sen!2sid" width="100%" height="362" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-				</div>
-			</div>	
-		</div>		
-	</section>
-
+	<!-- section company slogan end -->
 	<!-- section image before footer -->
-	<section class="section-image-before-footer">
+	<!-- <section class="section-image-before-footer">
 		<img class="footerpresiden" src="assets/images/bg-cover-footer-presiden-message.jpg" alt="">
+	</section> -->
+	<!-- PERUBAHAN FOOTER -->
+	<section class="section-image-before-footer">
+		<div class="flex-image-footer">
+			<div class="wrp-image-footer">
+				<img src="assets/images/image-footer-presiden-1.jpg" alt="MFI Presiden Director">
+			</div>
+			<div class="wrp-image-footer">
+				<img src="assets/images/image-footer-presiden-2.jpg" alt="MFI Presiden Director">
+			</div>			
+			<div class="wrp-image-footer">
+				<img src="assets/images/image-footer-presiden-3.jpg" alt="MFI Presiden Director">
+			</div>			
+			<div class="wrp-image-footer">
+				<img src="assets/images/image-footer-presiden-4.jpg" alt="MFI Presiden Director">
+			</div>			
+		</div>				
 	</section>
+	<!-- PERUBAHAN FOOTER -->
 	<!-- section image before footer end-->
 	<!-- Footer Start -->
 	<section class="footer">
@@ -415,6 +348,3 @@
 	</script>	
 </body>
 </html>
-
-
-

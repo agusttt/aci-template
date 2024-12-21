@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
-	<title>Vision, Mission and Value - PT. MC PET FILM INDONESIA</title>
+	<title>Vision and Mission</title>
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/reset.css">
 	<link rel="stylesheet" href="assets/css/mobile-style.css">
@@ -20,25 +20,28 @@
 		<div class="header-top-line">
 			<div class="container container-custom-navbar overflow-unset">
 				<div class="row align-items-center">
-					<div class="col-lg-6 col-md-6 col-sm-12 col-12">
+					<div class="col-lg-6 col-md-6 col-sm-12 col-12 p-l-5">
 						<div class="logo-brand">
 							<a href="index.php">
-								<img src="assets/images/mfi-logo.jpg">
+								<img src="assets/images/logo-aci.png">
 							</a>
 						</div>
 					</div>
-					<div class="col-lg-1 col-md-1 col-sm-12 col-12">
-
-					</div>
-					<div class="col-lg-5 col-md-5 col-sm-12 col-12">
-						<div class="row align-items-center">
-							<div class="col-md-6">
-								<img class="img-fluid" src="assets/images/logo-kaiteki-value-for-tomorrow.jpg" alt="">
+					<div class="col-lg-6 col-md-6 col-sm-12 col-12">
+						<!-- <div class="right-logo-language">
+							<div class="row align-items-center justify-content-end">
+								<div class="col-md-9 col-sm-12 col-12">
+									<form action="" class="search-ev">
+										<div class="input-group search-page">
+											<input type="text" class="form-control" placeholder="Search here.." aria-label="Recipient's username" aria-describedby="button-addon2">
+											<div class="input-group-append">
+												<button class="btn btn-outline-secondary btn-submit-search" type="button" id="button-addon2">Search</button>
+											</div>
+										</div>
+									</form>
+								</div>						
 							</div>
-							<div class="col-md-6">
-								<img class="img-fluid" src="assets/images/mitsubishi-chemical--holdings-group.jpg" alt="">
-							</div>							
-						</div>
+						</div>-->
 					</div>
 				</div>
 			</div>
@@ -49,7 +52,7 @@
 					<div class="col-one-point-5 col-sm-12">
 						<div class="logo-white">
 							<a href="index.php" class="logo-white-swipe-up">
-								<img src="assets/images/mfi-logo-blue.png" alt="Logo white MFI">
+								<img src="assets/images/aci-logo.svg" alt="Logo white ACI">
 							</a>
 						</div>
 					</div>
@@ -60,77 +63,37 @@
 									data-target="#navbar10">
 									<span class="navbar-toggler-icon"></span>
 								</button>
-								<div class="navbar-collapse collapse" id="navbar-yappika">
+								<div class="navbar-collapse collapse" id="navbar-aci">
 									<ul class="navbar-nav nav-fill w-100">
-										<!-- <li class="nav-item">
+										<li class="nav-item">
 											<a class="nav-link menu-item" href="#">Home</a>
-										</li> -->
-										<li class="nav-item dropdown">
-											<a class="nav-link menu-item" data-id="before-about" role="button">
-												About Us
-												<i class="caret-down"></i>
-											</a>
-											<ul class="dropdown-menu animate slideIn first-level">
-                                                <li><a class="dropdown-item" href="history.php">History</a></li>
-                                                <li><a class="dropdown-item" href="presiden-message.php">Message from the Presiden</a></li>
-												<li><a class="dropdown-item" href="vission-mission.php">Vission and Mission Value</a></li>
-												<li><a class="dropdown-item" href="meaning-logo.php">Meaning behind Slogan, Logo and Motto Industrialreations</a></li>	
-                                                <li><a class="dropdown-item" href="awards-achievements.php">Awards and Achievements</a></li>
-                                                <li><a class="dropdown-item" href="our-factory.php">Our Factory</a></li>																						
-											</ul>
-										</li>
-										<li class="nav-item dropdown">
-											<a class="nav-link menu-item" data-id="before-sekolah-aman" role="button">
-												Products
-												<i class="caret-down"></i>
-											</a>
-											<ul class="dropdown-menu animate slideIn first-level">
-                                                <li><a class="dropdown-item" href="product.php">PET (Polyethylene Terephthalate Film) </a></li>
-                                                <li><a class="dropdown-item" href="product.php">KTF (Polyethylene Breathable Film)</a></li>
-											</ul>
-										</li>
-										<li class="nav-item dropdown">
-											<a class="nav-link menu-item" data-id="before-article" role="button">
-												People
-												<i class="caret-down"></i>
-												<span class="activated-menu"></span>
-											</a>
-											<ul class="dropdown-menu animate slideIn first-level">
-                                                <li><a class="dropdown-item" href="kaiteki-health.php">KAITEKI Health and Productivity Management</a></li>
-                                                <li><a class="dropdown-item" href="talent-management.php">Talent Management</a></li>
-												<li><a class="dropdown-item" href="csr.php">CSR</a></li>	
-                                                <li><a class="dropdown-item" href="industrial-relations.php">Industrial Relations</a></li>																				
-											</ul>
-										</li>
-										<li class="nav-item dropdown">
-											<a class="nav-link menu-item" data-id="before-korporasi" role="button">
-												Responsible Company
-												<i class="caret-down"></i>
-											</a>
-											<ul class="dropdown-menu animate slideIn first-level">
-                                                <li><a class="dropdown-item" href="she-system.php">SHE System</a></li>
-                                                <li><a class="dropdown-item" href="compliance.php">Compliance</a></li>
-												<li><a class="dropdown-item" href="maintenance-system.php">Maintenance System</a></li>	
-												<li><a class="dropdown-item" href="iso.php">ISO (Quality and Environtment)</a></li>	
-											</ul>
 										</li>
 										<li class="nav-item">
-											<a class="nav-link menu-item" href="career.php">Career</a>
+											<a class="nav-link menu-item" href="#">About Us</a>
 										</li>
 										<li class="nav-item">
-											<a class="nav-link menu-item" href="contact-us.php">Contact Us</a>
+											<a class="nav-link menu-item" href="#">Vision & Mission</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link menu-item" href="#">Products</a>
+										</li>										
+										<li class="nav-item">
+											<a class="nav-link menu-item" href="#">Clients</a>
+										</li>
+										<li class="nav-item">
+											<a class="nav-link menu-item" href="#">Contact Us</a>
 										</li>
 									</ul>
 								</div>
 							</nav>
 						</div>
 					</div>
-					<div class="col-one-point-5 col-sm-12">
+					<div class="col-one-point-2 col-sm-12">
 						<div class="icon-search">
 							<a class="search-icon">
-							<img class="img-fluid" src="assets/images/search-icon-mfi.svg" alt="campaign yappika">
+							<img class="img-fluid" src="assets/images/search-icon-aci.svg" alt="campaign yappika">
 							</a>
-						</div>
+						</div>											
 					</div>
 				</div>
 			</div>
@@ -147,7 +110,7 @@
 					<form action="" class="search-ev">
 						<div class="input-group search-page">
 							<input type="text" class="form-control"
-								placeholder="Find something here.." aria-label="Recipient's username"
+								placeholder="Search here.." aria-label="Recipient's username"
 								aria-describedby="button-addon2">
 							<div class="input-group-append">
 								<button class="btn btn-outline-secondary btn-submit-search" type="button"
@@ -167,20 +130,9 @@
 	<section class="section-mobile-nav d-xl-none d-lg-none">
 		<div class="header-top-mobile">
 			<div class="logo-nav-mobile">
-				<a href="index.html">
-					<img class="img-fluid" src="assets/images/mfi-logo.jpg" alt="MFI">
+				<a href="index.php">
+					<img class="img-fluid" src="assets/images/logo-aci.png" alt="ACI">
 				</a>
-			</div>
-			<div class="right-setting-mobile">
-				<div class="dropdown d-lang">
-					<a class="btn btn-lang-mobile dropdown-toggle" href="#" role="button" id="dropdownMenuLang"
-						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						IDN
-					</a>
-					<div class="dropdown-menu dropdown-menu-mm" aria-labelledby="dropdownMenuLang">
-						<a class="dropdown-item" href="#">ENG</a>
-					</div>
-				</div>
 			</div>
 		</div>
 		<header>
@@ -210,51 +162,11 @@
 				<nav class="cd-dropdown">
 					<ul class="cd-dropdown-content">
 						<li><a href="index.php">Home</a></li>
-						<li class="has-children">
-							<a href="#">About Us</a>
-							<ul class="cd-secondary-dropdown is-hidden">
-								<li class="go-back"><a href="#0">Back to first menu</a></li>
-								<li><a href="history.php">History</a></li>
-								<li><a href="presiden-message.php">Message from the Presiden</a></li>
-								<li><a href="vission-mission.php">Vission and Mission Values</a></li>
-								<li><a href="meaning-logo.php">Meaning behind Slogan, Logo and Motto Industrialreations</a></li>
-								<li><a href="awards-achievements.php">Awards and Achievements</a></li>	
-								<li><a href="our-factory.php">Our Factory</a></li>								
-							</ul>
-						</li>
-						<li class="has-children">
-							<a href="#">Products</a>
-							<ul class="cd-secondary-dropdown is-hidden">
-								<li class="go-back"><a href="#0">Back to first menu</a></li>
-								<li><a href="product.php">PET (Polyethylene Terephthalate Film)</a></li>
-								<li><a href="product.php">KTF (Polyethylene Breathable Film)</a></li>							
-							</ul>
-						</li>
-						<li class="has-children">
-							<a href="#">People</a>
-							<ul class="cd-secondary-dropdown is-hidden">
-								<li class="go-back"><a href="#0">Back to first menu</a></li>
-								<li><a href="kaiteki-health.php">KAITEKI Health and Productivity Management</a></li>
-								<li><a href="talent-management.php">Talent Management</a></li>
-								<li><a href="csr.php">CSR</a></li>
-								<li><a href="industrial-relations.php">Industrial Relations</a></li>							
-							</ul>
-						</li>
-						<li class="has-children">
-							<a href="#">Repsonsible Company</a>
-							<ul class="cd-secondary-dropdown is-hidden">
-								<li class="go-back"><a href="#0">Back to first menu</a></li>
-								<li><a href="she-system.php">SHE System</a></li>
-								<li><a href="compliance.php">Compliance</a></li>
-								<li><a href="maintenance-system.php">Maintenance System</a></li>
-								<li><a href="iso.php">ISO (Quality and Environtment)</a></li>							
-							</ul>
-						</li>						
-						<li><a href="career.html">Career</a></li>
-						<li><a href="contact-us.html">Contact Us</a></li>
-						<li><a href="#">Privacy Statement</a></li>
-						<li><a href="terms-of-use.html">Terms of Use</a></li>
-						<li><a href="sitemap.html">Sitemap</a></li>
+						<li><a href="#">About Us</a></li>
+						<li><a href="#">Vission & Mission</a></li>
+						<li><a href="#">Products</a></li>
+						<li><a href="#">Clients</a></li>
+						<li><a href="#">Contact Us</a></li>
 						<div class="space-navbar-mobile"></div>
 					</ul>
 				</nav>
@@ -275,7 +187,7 @@
 				<div class="col"></div>
 				<div class="col-lg-8 col-md-8 col-sm-12 col-12">
 					<div class="wrp-title-csr-detail">
-						<h1>Vision, Mission and Value</h1>
+						<h1>Vision and Mission</h1>
 					</div>		
 				</div>
 				<div class="col"></div>							
@@ -288,8 +200,7 @@
 							<nav aria-label="breadcrumb">
 								<ol class="breadcrumb breadcrumb-article">
 									<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-									<li class="breadcrumb-item"><a href="#">About Us</a></li>
-									<li class="breadcrumb-item active" aria-current="page">Vision, Mission and Value</li>
+									<li class="breadcrumb-item active" aria-current="page">Vision and Mission</li>
 								</ol>
 							</nav>
 						</div>
@@ -302,82 +213,14 @@
 				<div class="col-md-8 col-sm-12 col-12">
 					<div class="company-vision-desc">
 						<h2>Vision</h2>
-						<p>Become the true global KAITEKI company and market leader in Advance Film Sheet industry in Asia Pacific by 2030</p>
+						<p>Nationwide Leader In Chemical Supply And Distribution For Water Treatment, Food Emulsifier, Oil Drilling And Cementing</p>
 					</div>
 					<div class="company-mission-desc">
 						<h2>Mission</h2>
-						<div class="desc-mission">
-							<div class="list-mission">
-								<ul class="circle-ordered-mission">
-									<li>
-										<p>Provider of innovative solution of Advance Film Sheet in Megatrend era.</p>
-									</li>
-									<li>
-										<p>Produce high quality products through the use of leading-edge technology for customer excellence</p>
-									</li>
-									<li>
-										<p>Continuously improve the quality of human life</p>
-									</li>
-								</ul>
-							</div>
-						</div>
+						<p>To give the best service to all our clients and partner with focus on service quality and professionalism</p>
 					</div>
 				</div>				
 				<div class="col"></div>							
-			</div>
-		</div>
-	</section>
-	<section class="section-career-open-postion">
-		<div class="container">
-			<div class="row">
-				<div class="col"></div>
-				<div class="col-lg-8 col-md-8 col-sm-12 col-12">
-					<div class="company-value-desc">
-						<h2>Values</h2>
-						<h3>READY (Respect, Lead, Harmony, Dynamic, Integrity)</h3>
-					</div>
-				</div>
-				<div class="col"></div>			
-			</div>
-			<div class="row">
-				<div class="col"></div>
-				<div class="col-lg-9 col-md-9 col-sm-12 col-12">
-					<div class="company-value-desc">
-						<div class="row justify-content-center">
-							<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-								<div class="box-values-card">
-									<h4>Respect:</h4>
-									<p>Behave and act responsibly with respect to the rights and abilities of others</p>
-								</div>
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-								<div class="box-values-card">
-									<h4>Lead:</h4>
-									<p>Possess high initiative character, as well as proactively and sustainably realize excellence to achieve common goals</p>
-								</div>
-							</div>		
-							<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-								<div class="box-values-card">
-									<h4>Harmony:</h4>
-									<p>behave and act based on the principles of balance, harmony and equality in diversity to achieve common goals</p>
-								</div>
-							</div>		
-							<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-								<div class="box-values-card">
-									<h4>Dynamic:</h4>
-									<p>Think with positive attitude based on capabilities and high enthusiasm to achieve success.</p>
-								</div>
-							</div>
-							<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-								<div class="box-values-card">
-									<h4>Integrity:</h4>
-									<p>Be consistent in behaving and acting based on the principles of truth, honesty, and transparency for the common interest.</p>
-								</div>
-							</div>																												
-						</div>
-					</div>					
-				</div>	
-				<div class="col"></div>
 			</div>
 		</div>
 	</section>
@@ -392,75 +235,79 @@
 						<div class="first-column-footer">
 							<div class="logo-footer-company">
 								<a class="logo-footer-small" href="index.php">
-									<img src="assets/images/mfi-logo.jpg" alt="MFI Indonesia Logo, PT. MC PET FILM INDONESIA">
+									<img src="assets/images/logo-aci.png" alt="ACI Indonesia">
 								</a>
 							</div>
 							<div class="wrp-office-adsress">
 								<h3>Head Office</h3>
-								<p>Setiabudi Atrium, Suite 710 Jl. HR Rasuna Said, Kuningan, Jakata 12920</p>
+								<p>Menteng, Central Jakarta, Indonesia</p>
 							</div>
 							<div class="wrp-factory-address">
-								<h3>Factory Office</h3>
-								<p>Jl. Raya Merak, Kelurahan Gerem, Kecamatan Grogol, Kota Cilegon, Banten</p>
+								<h3>Warehouse 1</h3>
+								<p>Dumai, Pekanbaru, Riau, Sumatera Indonesia</p>
+							</div>
+							<div class="wrp-factory-address">
+								<h3>Warehouse 2</h3>
+								<p>Marunda, Bekasi, Indonesia</p>
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4 col-md-4 col-sm-12 col-12">
+					<div class="col-lg-3 col-md-3 col-sm-12 col-12">
 						<div class="second-column-footer">
 							<div class="footer-line-nav">
-								<h3>About Us</h3>
+								<h3>About</h3>
 								<ul>
-									<li><a href="#">History</a></li>
-									<li><a href="#">Message from the Presiden</a></li>
-									<li><a href="#">Vission and Mission Values</a></li>
-									<li><a href="#">Meaning behind Slogan, Logo and Motto</a></li>
-									<li><a href="#">Industrialreations</a></li>
-									<li><a href="#">Awards and Achievements</a></li>
-									<li><a href="#">Our Factory</a></li>
+									<li><a href="#">About Company</a></li>
+									<li><a href="#">Vission & Mission</a></li>
 								</ul>
 							</div>
 							<div class="footer-line-nav">
-								<h3>Our Products</h3>
-								<ul>
-									<li><a href="#">PET (Polyethylene Terephthalate Film)</a></li>
-									<li><a href="#">KTF (Polyethylene Breathable Film)</a></li>									
-								</ul>
+								<a href="#"><h3>Our Clients</h3></a>
 							</div>
 						</div>	
 					</div>
-					<div class="col-lg-4 col-md-4 col-sm-12 col-12">
+					<div class="col-lg-5 col-md-5 col-sm-12 col-12">
 						<div class="third-column-footer">
 							<div class="footer-line-nav">
-								<h3>People</h3>
-								<ul>
-									<li><a href="#">KAITEKI Health and Productivity Management</a></li>
-									<li><a href="#">Talent Management</a></li>			
-									<li><a href="#">CSR</a></li>				
-									<li><a href="#">Industrial Relations</a></li>									
-								</ul>
-							</div>
-							<div class="footer-line-nav">
-								<h3>Repsonsible Company</h3>
-								<ul>
-									<li><a href="#">SHE System</a></li>
-									<li><a href="#">Compliance</a></li>			
-									<li><a href="#">Maintenance System</a></li>				
-									<li><a href="#">ISO (Quality and Environtment)</a></li>									
-								</ul>
-							</div>
-							<div class="footer-line-nav">
-								<a href="list-news.php"><h3>News and Article</h3></a>
-							</div>		
-							<div class="footer-line-nav">
-								<a href="career.php"><h3>Career</h3></a>
-							</div>	
-							<div class="footer-line-nav">
-								<a href="contact-us.php"><h3>Contact Us</h3></a>
+								<h3>Product</h3>
+								<div class="row">
+									<div class="col-md-6 col-sm-12 col-12">
+										<ul>
+											<li><a class="dropdown-item" href="#">Fluid loss controller</a></li>
+											<li><a class="dropdown-item" href="#">Retarder</a></li>
+											<li><a class="dropdown-item" href="#">Anti gas migration</a></li>
+											<li><a class="dropdown-item" href="#">Dispersant</a></li>
+											<li><a class="dropdown-item" href="#">Filtrol</a></li>
+											<li><a class="dropdown-item" href="#">Starch</a></li>
+											<li><a class="dropdown-item" href="#">Polyamine</a></li>
+											<li><a class="dropdown-item" href="#">Ezflo</a></li>
+										</ul>
+									</div>
+									<div class="col-md-6">
+										<ul>
+											<li><a class="dropdown-item" href="#">CMS</a></li>
+											<li><a class="dropdown-item" href="#">Barrite</a></li>
+											<li><a class="dropdown-item" href="#">Xanthan Gum</a></li>
+											<li><a class="dropdown-item" href="#">GGBFS</a></li>
+											<li><a class="dropdown-item" href="#">Antifoam</a></li>
+											<li><a class="dropdown-item" href="#">Foamer</a></li>
+											<li><a class="dropdown-item" href="#">Caustic soda</a></li>
+											<li><a class="dropdown-item" href="#">Oil well cement</a></li>																
+										</ul>
+									</div>
+								</div>
 							</div>														
 						</div>
 					</div>
 				</div>
-
+				<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-12"></div>
+					<div class="company-group-link-footer w-100 d-flex justify-content-center">
+						<div class="grey-paragraph text-center">
+							<p>© 2024 ACI Chemical - Indonesia Company</p>
+						</div>
+					</div>	
+				</div>
 			</div>
 		</div>
 		<div class="wrp-copyright">
