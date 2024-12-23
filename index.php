@@ -459,6 +459,9 @@
 								</ul>
 							</div>
 							<div class="footer-line-nav">
+								<a href="#"><h3>Products</h3></a>
+							</div>							
+							<div class="footer-line-nav">
 								<a href="#"><h3>Our Clients</h3></a>
 							</div>
 						</div>	
@@ -466,34 +469,16 @@
 					<div class="col-lg-5 col-md-5 col-sm-12 col-12">
 						<div class="third-column-footer">
 							<div class="footer-line-nav">
-								<h3>Product</h3>
-								<div class="row">
-									<div class="col-md-6 col-sm-12 col-12">
-										<ul>
-											<li><a class="dropdown-item" href="#">Fluid loss controller</a></li>
-											<li><a class="dropdown-item" href="#">Retarder</a></li>
-											<li><a class="dropdown-item" href="#">Anti gas migration</a></li>
-											<li><a class="dropdown-item" href="#">Dispersant</a></li>
-											<li><a class="dropdown-item" href="#">Filtrol</a></li>
-											<li><a class="dropdown-item" href="#">Starch</a></li>
-											<li><a class="dropdown-item" href="#">Polyamine</a></li>
-											<li><a class="dropdown-item" href="#">Ezflo</a></li>
-										</ul>
-									</div>
-									<div class="col-md-6">
-										<ul>
-											<li><a class="dropdown-item" href="#">CMS</a></li>
-											<li><a class="dropdown-item" href="#">Barrite</a></li>
-											<li><a class="dropdown-item" href="#">Xanthan Gum</a></li>
-											<li><a class="dropdown-item" href="#">GGBFS</a></li>
-											<li><a class="dropdown-item" href="#">Antifoam</a></li>
-											<li><a class="dropdown-item" href="#">Foamer</a></li>
-											<li><a class="dropdown-item" href="#">Caustic soda</a></li>
-											<li><a class="dropdown-item" href="#">Oil well cement</a></li>																
-										</ul>
-									</div>
+								<h3>Certificates</h3>
+							</div>				
+							<div class="wrp-certified-factory">
+								<div class="certified-stamp">
+									<img src="assets/images/iso-9001.jpg" alt="ISO 9001">
 								</div>
-							</div>														
+								<div class="certified-stamp">
+									<img src="assets/images/iso-14001.jpg" alt="ISO 14001">
+								</div>
+							</div>										
 						</div>
 					</div>
 				</div>

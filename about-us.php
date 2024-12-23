@@ -208,6 +208,50 @@
 						<div class="company-vision-desc">
 							<p>ACI was founded in 2008 to cater to the extensive chemical necessities in oil & gas services. As one of the fastest growing companies in its field, throughout the years the company has offered chemical solutions to other industries such as cosmetics, paper and food.</p>
 						</div>
+						<div class="trip-schedule">
+							<div class="time-schedule">
+								<div class="wrp-text-schedule">
+									<div class="years-state">
+										<h4>2023</h4>
+									</div>								
+									<p>Appointed by PT. Solusi Bangun Indonesia Tbk (Semen Indonesia) to be the distributor for PCC</p>
+								</div>
+							</div>
+							<div class="time-schedule">
+								<div class="wrp-text-schedule">
+									<div class="years-state">
+									<h4>2020</h4>
+									</div>
+									<p>Appointed by PT. Solusi Bangun Indonesia Tbk (Semen Indonesia) to be the distributor for State Owned Enterprise for OWC</p>
+								</div>
+							</div>
+							<div class="time-schedule">
+								<div class="wrp-text-schedule">
+									<div class="years-state">
+									<h4>2015</h4>
+									</div>
+									<p>Appointed by PT. Semen Padang to be the sole distributor of OWC in Indonesia</p>								
+								</div>
+							</div>
+							<div class="time-schedule">
+								<div class="wrp-text-schedule">
+									<div class="years-state">
+										<h4>2011</h4>
+									</div>
+									<p>Appointed by PT. Arbe Chemindo to be the sole agent of PAC and CMC in Indonesia and overseas.
+									</p>
+								</div>
+							</div>
+							<div class="time-schedule">
+								<div class="wrp-text-schedule">
+									<div class="years-state">
+										<h4>2008</h4>
+									</div>
+									<p>Establishment of PT. ACI Citra Indonesia as chemical trading company and subsidiary of PT. Drilinco Maju
+									</p>
+								</div>
+							</div>								
+						</div>						
 					</div>				
 					<div class="col"></div>							
 				</div>
